@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Users\Nathaniel\Documents\school\2013 Spring\CMPEN 331\HW8-4
+!i10d 8192
+!i10e 25
+!i10f 100
+varithmetic_logic_unit
+Z1 !s110 1367032597
+!i10b 1
+Z2 !s100 7LFFRzJ5GmeEU2;_RkS>l2
+Z3 I=BUk0^glUUII64SdlGQ5G1
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+Z5 dC:\Users\Nathaniel\Documents\school\2013 Spring\CMPEN 331\HW8-4
+Z6 w1367028131
+Z7 8arithmetic_logic_unit.v
+Z8 Farithmetic_logic_unit.v
+L0 24
+Z9 OP;L;10.2;57
+r1
+!s85 0
+31
+Z10 !s108 1367032597.127000
+Z11 !s107 tb_CPU.v|sign_extension.v|register_file.v|program_counter.v|mux_2to1.v|instruction_memory.v|data_memory.v|cpu.v|control_unit.v|control_unit - Copy.v|arithmetic_logic_unit.v|
+Z12 !s90 -reportprogress|300|-work|work|arithmetic_logic_unit.v|control_unit - Copy.v|control_unit.v|cpu.v|data_memory.v|instruction_memory.v|mux_2to1.v|program_counter.v|register_file.v|sign_extension.v|tb_CPU.v|
+!s101 -O0
+Z13 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+vcontrol_unit
+R1
+!i10b 1
+Z14 !s100 [9B5o;UF?Wa6o6<4cn[jV0
+Z15 I5eDBc@U2kZV01bNbHeP?o2
+R4
+R5
+Z16 w1367032564
+Z17 8control_unit.v
+Z18 Fcontrol_unit.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vcontrol_unitsdfsdf
+R1
+!i10b 1
+Z19 !s100 m>YX`>RECO^2jl]Kjkz<n2
+Z20 INWFAk>c8:L[^ORObc^`FF0
+R4
+R5
+Z21 w1367027898
+Z22 8control_unit - Copy.v
+Z23 Fcontrol_unit - Copy.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vcpu
+R1
+!i10b 1
+Z24 !s100 XSHTdSmWz557]]QoNJhj`0
+Z25 IAmZcV5Li2RoCAZHB5?Yz:2
+R4
+R5
+Z26 w1367032462
+Z27 8cpu.v
+Z28 Fcpu.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vdata_memory
+R1
+!i10b 1
+Z29 !s100 gg>aMOI7LWP@T5^C4jz?;1
+Z30 ICKTElBW>m7cMgCnf]<zcF2
+R4
+R5
+Z31 w1366799948
+Z32 8data_memory.v
+Z33 Fdata_memory.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vinstruction_memory
+R1
+!i10b 1
+Z34 !s100 GMmSC^B^];=>K9MKo]Y6h1
+Z35 I2jV@1z^aR8o=`b:SN@]Wd2
+R4
+R5
+R31
+Z36 8instruction_memory.v
+Z37 Finstruction_memory.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vmux_2to1
+R1
+!i10b 1
+Z38 !s100 2o4S39]LeQ6?RQT`MB:=10
+Z39 I@NX7cA`dc7l]Z_IM?abVb1
+R4
+R5
+R31
+Z40 8mux_2to1.v
+Z41 Fmux_2to1.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vprogram_counter
+R1
+!i10b 1
+Z42 !s100 lhcQ9:bDRYc_39>8bYR;?3
+Z43 IlNmGhD4`7g;j?i]ThlzOR3
+R4
+R5
+Z44 w1367032519
+Z45 8program_counter.v
+Z46 Fprogram_counter.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vregister_file
+R1
+!i10b 1
+Z47 !s100 Yo_88Cee@09NlzKMVK@MO0
+Z48 IS^MkfSV[G3[ZL86Rf;EV40
+R4
+R5
+Z49 w1367025796
+Z50 8register_file.v
+Z51 Fregister_file.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vsign_extension
+R1
+!i10b 1
+Z52 !s100 Yl8Sj?]AmMRf3lYm_k11z2
+Z53 I49MT7I@_2zRNLl]>W9l^91
+R4
+R5
+R31
+Z54 8sign_extension.v
+Z55 Fsign_extension.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+vtb_CPU
+R1
+!i10b 1
+Z56 !s100 FH_mH0M?L1hhVgndG3b2n3
+Z57 IZI@_iJ71Oo97D>`BBR8eZ2
+R4
+R5
+Z58 w1367019500
+Z59 8tb_CPU.v
+Z60 Ftb_CPU.v
+L0 24
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+R13
+Z61 ntb_@c@p@u
